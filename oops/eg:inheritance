@@ -1,10 +1,10 @@
-class Animal:
-    def __init__(self, name):
-        self.name = name
-   
-class Dog(Animal):
-    def speak(self):
-        print('bow')
-class Cat(Animal):
-    def speak(self):
-        print('meow')
+class book:
+    def __init__(s):
+        print("author details")
+    def name(s):
+        print("bookname")
+class author(book):
+    def name(s):
+        print("name")
+    def published(s):
+        print("published")

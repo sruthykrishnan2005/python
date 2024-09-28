@@ -13,11 +13,12 @@
 #         a.append(i)
 # print(a)
 
-l=["manu","akhil","sanu"]
-for i in l:
-    rev=""
-    for j in i:
-        rev=j+rev
-    print(rev)
+# l=["manu","akhil","sanu"]
+# for i in l:
+#     rev=""
+#     for j in i:
+#         rev=j+rev
+#     print(rev)
 
 
+    

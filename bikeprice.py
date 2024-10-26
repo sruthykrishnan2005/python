@@ -10,3 +10,6 @@ elif a<=50000:
     print("tax is 5%",b)
     b=5/100*a
     
+
+
+    
